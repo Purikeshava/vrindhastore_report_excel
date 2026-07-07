@@ -28,10 +28,4 @@ This project is an interactive Excel Sales Dashboard developed to analyze the sa
 
 This project helped me strengthen my Excel skills by working with a real-world dataset. I gained hands-on experience in data cleaning, creating interactive dashboards, analyzing business performance, and presenting insights through effective visualizations. It improved my ability to convert raw data into meaningful business reports.
 
-## 📷 Dashboard Preview
-
-Add a screenshot of the dashboard here.
-
----
-
 ⭐ If you found this project useful, feel free to star the repository!
